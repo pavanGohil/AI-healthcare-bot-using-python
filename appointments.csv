@@ -1,0 +1,5 @@
+ID,Name,Time,Date,Illness,Doctor,Title,Description
+APPT-6923,Ada,23:00,2025-01-22,Flu,Dr. Emily Watson,Appointment for Flu,Consultation for Flu symptoms
+APPT-6478,Pavan,17:00,2025-01-29,COVID-19,Dr. James Anderson,Appointment for COVID-19,Consultation for COVID-19 symptoms
+APPT-3290,Pavan,17:00,2025-01-29,Arthritis,Dr. Sarah Thompson,Appointment for Arthritis,Consultation for Arthritis symptoms
+APPT-9605,Pavan,20:00,2025-02-10,Arthritis,Dr. Priya Sharma,Appointment for Arthritis,Consultation for Arthritis symptoms
